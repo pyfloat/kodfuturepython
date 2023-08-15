@@ -1,5 +1,8 @@
 # import math
 # res=math.sqrt(25)
 from math import*
+res = sqrt(25)
 print(res)
-print(dir(math))
+
+from random import randint
+print(randint(1, 100))
